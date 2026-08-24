@@ -386,5 +386,14 @@
       "Expected commit message of 'Add the search feature', got '<Missing commit>' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787598006.207997,
+    "completed_at": 1787598009.828612,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
